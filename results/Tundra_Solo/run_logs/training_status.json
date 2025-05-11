@@ -1,0 +1,65 @@
+{
+    "MagCoop": {
+        "checkpoints": [
+            {
+                "steps": 969987,
+                "file_path": "results\\Tundra_Solo\\MagCoop\\MagCoop-969987.onnx",
+                "reward": null,
+                "creation_time": 1740141922.9166853,
+                "auxillary_file_paths": [
+                    "results\\Tundra_Solo\\MagCoop\\MagCoop-969987.pt"
+                ]
+            },
+            {
+                "steps": 979987,
+                "file_path": "results\\Tundra_Solo\\MagCoop\\MagCoop-979987.onnx",
+                "reward": null,
+                "creation_time": 1740141988.3834944,
+                "auxillary_file_paths": [
+                    "results\\Tundra_Solo\\MagCoop\\MagCoop-979987.pt"
+                ]
+            },
+            {
+                "steps": 989987,
+                "file_path": "results\\Tundra_Solo\\MagCoop\\MagCoop-989987.onnx",
+                "reward": null,
+                "creation_time": 1740142054.2402792,
+                "auxillary_file_paths": [
+                    "results\\Tundra_Solo\\MagCoop\\MagCoop-989987.pt"
+                ]
+            },
+            {
+                "steps": 999987,
+                "file_path": "results\\Tundra_Solo\\MagCoop\\MagCoop-999987.onnx",
+                "reward": null,
+                "creation_time": 1740142119.6739728,
+                "auxillary_file_paths": [
+                    "results\\Tundra_Solo\\MagCoop\\MagCoop-999987.pt"
+                ]
+            },
+            {
+                "steps": 1000091,
+                "file_path": "results\\Tundra_Solo\\MagCoop\\MagCoop-1000091.onnx",
+                "reward": 2495.7584838867188,
+                "creation_time": 1740142119.7531083,
+                "auxillary_file_paths": [
+                    "results\\Tundra_Solo\\MagCoop\\MagCoop-1000091.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1000091,
+            "file_path": "results\\Tundra_Solo\\MagCoop.onnx",
+            "reward": 2495.7584838867188,
+            "creation_time": 1740142119.7531083,
+            "auxillary_file_paths": [
+                "results\\Tundra_Solo\\MagCoop\\MagCoop-1000091.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0",
+        "torch_version": "2.5.1+cpu"
+    }
+}

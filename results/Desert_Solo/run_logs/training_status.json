@@ -1,0 +1,65 @@
+{
+    "MagCoop": {
+        "checkpoints": [
+            {
+                "steps": 969888,
+                "file_path": "results\\Desert_Solo\\MagCoop\\MagCoop-969888.onnx",
+                "reward": 801.5444946289062,
+                "creation_time": 1740095604.1232104,
+                "auxillary_file_paths": [
+                    "results\\Desert_Solo\\MagCoop\\MagCoop-969888.pt"
+                ]
+            },
+            {
+                "steps": 979885,
+                "file_path": "results\\Desert_Solo\\MagCoop\\MagCoop-979885.onnx",
+                "reward": null,
+                "creation_time": 1740095658.6262414,
+                "auxillary_file_paths": [
+                    "results\\Desert_Solo\\MagCoop\\MagCoop-979885.pt"
+                ]
+            },
+            {
+                "steps": 989980,
+                "file_path": "results\\Desert_Solo\\MagCoop\\MagCoop-989980.onnx",
+                "reward": null,
+                "creation_time": 1740095719.1186907,
+                "auxillary_file_paths": [
+                    "results\\Desert_Solo\\MagCoop\\MagCoop-989980.pt"
+                ]
+            },
+            {
+                "steps": 999987,
+                "file_path": "results\\Desert_Solo\\MagCoop\\MagCoop-999987.onnx",
+                "reward": null,
+                "creation_time": 1740095770.620544,
+                "auxillary_file_paths": [
+                    "results\\Desert_Solo\\MagCoop\\MagCoop-999987.pt"
+                ]
+            },
+            {
+                "steps": 1000115,
+                "file_path": "results\\Desert_Solo\\MagCoop\\MagCoop-1000115.onnx",
+                "reward": null,
+                "creation_time": 1740095770.701815,
+                "auxillary_file_paths": [
+                    "results\\Desert_Solo\\MagCoop\\MagCoop-1000115.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1000115,
+            "file_path": "results\\Desert_Solo\\MagCoop.onnx",
+            "reward": null,
+            "creation_time": 1740095770.701815,
+            "auxillary_file_paths": [
+                "results\\Desert_Solo\\MagCoop\\MagCoop-1000115.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0",
+        "torch_version": "2.5.1+cpu"
+    }
+}

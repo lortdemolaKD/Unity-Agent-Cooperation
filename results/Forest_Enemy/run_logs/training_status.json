@@ -1,0 +1,65 @@
+{
+    "MagCoop": {
+        "checkpoints": [
+            {
+                "steps": 4969906,
+                "file_path": "results\\Forest_Enemy\\MagCoop\\MagCoop-4969906.onnx",
+                "reward": null,
+                "creation_time": 1743766407.3024132,
+                "auxillary_file_paths": [
+                    "results\\Forest_Enemy\\MagCoop\\MagCoop-4969906.pt"
+                ]
+            },
+            {
+                "steps": 4979922,
+                "file_path": "results\\Forest_Enemy\\MagCoop\\MagCoop-4979922.onnx",
+                "reward": 2492.659378051758,
+                "creation_time": 1743766414.7631478,
+                "auxillary_file_paths": [
+                    "results\\Forest_Enemy\\MagCoop\\MagCoop-4979922.pt"
+                ]
+            },
+            {
+                "steps": 4989887,
+                "file_path": "results\\Forest_Enemy\\MagCoop\\MagCoop-4989887.onnx",
+                "reward": 2492.3662109375,
+                "creation_time": 1743766421.9278126,
+                "auxillary_file_paths": [
+                    "results\\Forest_Enemy\\MagCoop\\MagCoop-4989887.pt"
+                ]
+            },
+            {
+                "steps": 4999939,
+                "file_path": "results\\Forest_Enemy\\MagCoop\\MagCoop-4999939.onnx",
+                "reward": 2426.841827392578,
+                "creation_time": 1743766428.6936378,
+                "auxillary_file_paths": [
+                    "results\\Forest_Enemy\\MagCoop\\MagCoop-4999939.pt"
+                ]
+            },
+            {
+                "steps": 5000317,
+                "file_path": "results\\Forest_Enemy\\MagCoop\\MagCoop-5000317.onnx",
+                "reward": 1929.5114192962646,
+                "creation_time": 1743766428.793842,
+                "auxillary_file_paths": [
+                    "results\\Forest_Enemy\\MagCoop\\MagCoop-5000317.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 5000317,
+            "file_path": "results\\Forest_Enemy\\MagCoop.onnx",
+            "reward": 1929.5114192962646,
+            "creation_time": 1743766428.793842,
+            "auxillary_file_paths": [
+                "results\\Forest_Enemy\\MagCoop\\MagCoop-5000317.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0",
+        "torch_version": "2.5.1+cpu"
+    }
+}

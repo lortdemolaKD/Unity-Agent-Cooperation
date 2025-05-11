@@ -1,0 +1,65 @@
+{
+    "MagCoop": {
+        "checkpoints": [
+            {
+                "steps": 4969965,
+                "file_path": "results\\Forest\\MagCoop\\MagCoop-4969965.onnx",
+                "reward": null,
+                "creation_time": 1739985686.608918,
+                "auxillary_file_paths": [
+                    "results\\Forest\\MagCoop\\MagCoop-4969965.pt"
+                ]
+            },
+            {
+                "steps": 4979949,
+                "file_path": "results\\Forest\\MagCoop\\MagCoop-4979949.onnx",
+                "reward": null,
+                "creation_time": 1739985694.3246167,
+                "auxillary_file_paths": [
+                    "results\\Forest\\MagCoop\\MagCoop-4979949.pt"
+                ]
+            },
+            {
+                "steps": 4989909,
+                "file_path": "results\\Forest\\MagCoop\\MagCoop-4989909.onnx",
+                "reward": null,
+                "creation_time": 1739985702.072598,
+                "auxillary_file_paths": [
+                    "results\\Forest\\MagCoop\\MagCoop-4989909.pt"
+                ]
+            },
+            {
+                "steps": 4999988,
+                "file_path": "results\\Forest\\MagCoop\\MagCoop-4999988.onnx",
+                "reward": null,
+                "creation_time": 1739985709.7349813,
+                "auxillary_file_paths": [
+                    "results\\Forest\\MagCoop\\MagCoop-4999988.pt"
+                ]
+            },
+            {
+                "steps": 5000628,
+                "file_path": "results\\Forest\\MagCoop\\MagCoop-5000628.onnx",
+                "reward": null,
+                "creation_time": 1739985709.853646,
+                "auxillary_file_paths": [
+                    "results\\Forest\\MagCoop\\MagCoop-5000628.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 5000628,
+            "file_path": "results\\Forest\\MagCoop.onnx",
+            "reward": null,
+            "creation_time": 1739985709.853646,
+            "auxillary_file_paths": [
+                "results\\Forest\\MagCoop\\MagCoop-5000628.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0",
+        "torch_version": "2.5.1+cpu"
+    }
+}

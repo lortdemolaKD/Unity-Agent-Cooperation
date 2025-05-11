@@ -1,0 +1,57 @@
+1.first
+
+
+
+2.1.training
+
+mlagents-learn 
+mlagents-learn --force
+mlagents-learn --run-id=name 
+mlagents-learn config/configfile.yaml --run-id=name 
+mlagents-learn config/configfile.yaml --initialize-from=name --run-id=nameNEXT 
+
+
+tep_confid_name : config/MoveToGoal.yaml 
+
+MoveToGoal5M
+
+2.2.visual after training
+
+tensorboard --logdir results
+
+
+
+horisontal_second
+
+
+mlagents-learn config/MoveToGoal5M.yaml --initialize-from=lern_three --run-id=New_look
+
+mlagents-learn config/MoveToGoal5M.yaml --run-id=New_look --force
+
+mlagents-learn config/MoveToGoal5M.yaml --initialize-from=New_look --run-id=New_look2 --force
+
+
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| to następne \/
+mlagents-learn config/MoveToGoal5M.yaml --initialize-from=Forest --run-id=City --force
+
+
+
+mlagents-learn config/MoveToGoal5M.yaml --run-id=Forest_Solo --force
+
+
+mlagents-learn config/MoveToGoal5M.yaml --run-id=Forest --force
+
+
+mlagents-learn config/MoveToGoal5M.yaml --initialize-from=Forest --run-id=Tundra --force
+
+mlagents-learn config/MoveToGoal5M.yaml --initialize-from=Forest --run-id=Plains --force
+poprawka na ajust potzrebna agent nie dochodzi do punktu
+
+
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| to następne \/
+mlagents-learn config/MoveToGoal5M.yaml --run-id=Forest_Solo --force
+mlagents-learn config/MoveToGoal5M.yaml --initialize-from=Forest_Solo --run-id=Plains_Solo --force
+mlagents-learn config/MoveToGoal5M.yaml --initialize-from=Forest_Solo --run-id=Desert_Solo --force
+mlagents-learn config/MoveToGoal5M.yaml --initialize-from=Forest_Solo --run-id=Tundra_Solo --force
+mlagents-learn config/MoveToGoal5M.yaml --initialize-from=Forest_Solo --run-id=Swamp_Solo --force
+mlagents-learn config/MoveToGoal5M.yaml --initialize-from=Forest_Solo --run-id=City_Solo --force

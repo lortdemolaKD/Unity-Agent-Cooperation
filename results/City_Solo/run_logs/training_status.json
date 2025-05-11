@@ -1,0 +1,65 @@
+{
+    "MagCoop": {
+        "checkpoints": [
+            {
+                "steps": 969917,
+                "file_path": "results\\City_Solo\\MagCoop\\MagCoop-969917.onnx",
+                "reward": null,
+                "creation_time": 1740226995.3971932,
+                "auxillary_file_paths": [
+                    "results\\City_Solo\\MagCoop\\MagCoop-969917.pt"
+                ]
+            },
+            {
+                "steps": 979998,
+                "file_path": "results\\City_Solo\\MagCoop\\MagCoop-979998.onnx",
+                "reward": 2495.5192260742188,
+                "creation_time": 1740227046.9550104,
+                "auxillary_file_paths": [
+                    "results\\City_Solo\\MagCoop\\MagCoop-979998.pt"
+                ]
+            },
+            {
+                "steps": 989969,
+                "file_path": "results\\City_Solo\\MagCoop\\MagCoop-989969.onnx",
+                "reward": 1269.6048583984375,
+                "creation_time": 1740227104.009117,
+                "auxillary_file_paths": [
+                    "results\\City_Solo\\MagCoop\\MagCoop-989969.pt"
+                ]
+            },
+            {
+                "steps": 999908,
+                "file_path": "results\\City_Solo\\MagCoop\\MagCoop-999908.onnx",
+                "reward": 1277.6759948730469,
+                "creation_time": 1740227163.7152777,
+                "auxillary_file_paths": [
+                    "results\\City_Solo\\MagCoop\\MagCoop-999908.pt"
+                ]
+            },
+            {
+                "steps": 1000164,
+                "file_path": "results\\City_Solo\\MagCoop\\MagCoop-1000164.onnx",
+                "reward": 1277.6759948730469,
+                "creation_time": 1740227163.8129196,
+                "auxillary_file_paths": [
+                    "results\\City_Solo\\MagCoop\\MagCoop-1000164.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1000164,
+            "file_path": "results\\City_Solo\\MagCoop.onnx",
+            "reward": 1277.6759948730469,
+            "creation_time": 1740227163.8129196,
+            "auxillary_file_paths": [
+                "results\\City_Solo\\MagCoop\\MagCoop-1000164.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0",
+        "torch_version": "2.5.1+cpu"
+    }
+}

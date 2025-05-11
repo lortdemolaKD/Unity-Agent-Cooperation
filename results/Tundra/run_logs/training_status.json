@@ -1,0 +1,65 @@
+{
+    "MagCoop": {
+        "checkpoints": [
+            {
+                "steps": 4969903,
+                "file_path": "results\\Tundra\\MagCoop\\MagCoop-4969903.onnx",
+                "reward": null,
+                "creation_time": 1740005180.6514585,
+                "auxillary_file_paths": [
+                    "results\\Tundra\\MagCoop\\MagCoop-4969903.pt"
+                ]
+            },
+            {
+                "steps": 4979887,
+                "file_path": "results\\Tundra\\MagCoop\\MagCoop-4979887.onnx",
+                "reward": null,
+                "creation_time": 1740005189.3940666,
+                "auxillary_file_paths": [
+                    "results\\Tundra\\MagCoop\\MagCoop-4979887.pt"
+                ]
+            },
+            {
+                "steps": 4989907,
+                "file_path": "results\\Tundra\\MagCoop\\MagCoop-4989907.onnx",
+                "reward": null,
+                "creation_time": 1740005198.475742,
+                "auxillary_file_paths": [
+                    "results\\Tundra\\MagCoop\\MagCoop-4989907.pt"
+                ]
+            },
+            {
+                "steps": 4999959,
+                "file_path": "results\\Tundra\\MagCoop\\MagCoop-4999959.onnx",
+                "reward": null,
+                "creation_time": 1740005207.407386,
+                "auxillary_file_paths": [
+                    "results\\Tundra\\MagCoop\\MagCoop-4999959.pt"
+                ]
+            },
+            {
+                "steps": 5000087,
+                "file_path": "results\\Tundra\\MagCoop\\MagCoop-5000087.onnx",
+                "reward": null,
+                "creation_time": 1740005207.4913676,
+                "auxillary_file_paths": [
+                    "results\\Tundra\\MagCoop\\MagCoop-5000087.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 5000087,
+            "file_path": "results\\Tundra\\MagCoop.onnx",
+            "reward": null,
+            "creation_time": 1740005207.4913676,
+            "auxillary_file_paths": [
+                "results\\Tundra\\MagCoop\\MagCoop-5000087.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0",
+        "torch_version": "2.5.1+cpu"
+    }
+}
